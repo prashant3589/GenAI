@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/91635e82-d6cc-46ea-8fbe-681bed7cdb02/resourceGroups/summerizeai_group/providers/Microsoft.Web/sites/summerizeai",
+    "appService.deploySubpath": "."
+}
